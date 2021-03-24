@@ -3,6 +3,8 @@
 > 初心：记录优秀的Doi技术团队学习经历<br/>
 >本文链接：[基于TNN在Android手机上实现图像分类](https://blog.doiduoyi.com/articles/1599362726469.html)<br/>
 
+# 原代码
+https://github.com/yeyupiaoling/ClassificationForAndroid/tree/master/TNNClassification
 
 
 # 前言
